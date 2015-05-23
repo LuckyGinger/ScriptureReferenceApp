@@ -9,7 +9,9 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-
+/**
+ * @author Thom Allen
+ */
 public class MainActivity extends ActionBarActivity {
     public final static String EXTRA_MESSAGE = "com.supafly.thom.scripturereferenceapp.MESSAGE";
 
